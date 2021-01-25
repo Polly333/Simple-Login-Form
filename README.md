@@ -1,2 +1,2 @@
 # Simple-Login-Form
-A simple login form with MySQL database connectivity
+A simple registration form with MySQL database connectivity
